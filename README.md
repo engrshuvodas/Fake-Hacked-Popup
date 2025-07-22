@@ -14,8 +14,9 @@
 
 <h3>🧠 What is This?</h3>
 <p>
-  This is a <strong>fun VBScript prank</strong> that creates an infinite loop of pop-up message boxes saying:
-  <code>"Your System was Hacked!"</code> 😈
+  <strong>FakeHackedPopup</strong> is a fun little VBScript prank that creates an <code>infinite loop</code> of message boxes saying: <br>
+  <code>"Your System was Hacked!"</code> 😈 <br>
+  It looks scary, but it's totally harmless. Just made for fun or to spook your friends!
 </p>
 
 <h3>💡 How It Works</h3>
@@ -24,51 +25,51 @@ do
     msgbox "Your System was Hacked!"
 loop
 </pre>
-<p>
-  This VBScript runs an infinite <code>do...loop</code> and shows a message box on every iteration.<br>
-  It continues until you manually stop it.
-</p>
+<p>This VBScript uses an infinite <code>Do...Loop</code> and repeatedly shows a message box popup.</p>
 
-<h3>🛠️ File Extension to Use</h3>
+<h3>🛠️ What File Extension to Use?</h3>
 <p>
-  Save the code with the extension: <code>.vbs</code><br>
-  Example: <strong>prank.vbs</strong>
+  Save the script with a <code>.vbs</code> extension (not .txt)<br>
+  ✅ Example: <strong>FakeHackedPopup.vbs</strong>
 </p>
 
 <h3>🚀 How to Run</h3>
 <ol>
   <li>Open <strong>Notepad</strong></li>
-  <li>Paste the code</li>
-  <li>Save it as <code>prank.vbs</code></li>
-  <li>Double-click the file to launch the madness 😜</li>
+  <li>Paste the code into it</li>
+  <li>Save the file as <code>FakeHackedPopup.vbs</code></li>
+  <li>Double-click to run (Windows only)</li>
 </ol>
 
-<h3>🛑 How to Stop It</h3>
+<h3>🛑 How to Stop the Script</h3>
 <ol>
   <li>Press <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Esc</kbd> to open <strong>Task Manager</strong></li>
-  <li>Find and end the process: <code>wscript.exe</code> or <code>cscript.exe</code></li>
-  <li>That's it! Your PC is now safe from this silly script 😅</li>
+  <li>Find the process: <code>wscript.exe</code> or <code>cscript.exe</code></li>
+  <li>Right-click and choose <strong>End Task</strong></li>
 </ol>
 
-<h3>⚠️ Warning</h3>
+<h3>⚠️ Disclaimer</h3>
 <p>
-  This is just a harmless prank. But DO NOT use it to annoy people or disrupt others' work.<br>
-  Always get permission before running pranks on someone else's system.
+  This project is created for educational and entertainment purposes only.<br>
+  <strong>DO NOT</strong> use this to annoy or harm anyone. Always use it responsibly.
 </p>
 
-<h3>📁 Files Included</h3>
+<h3>📁 Included Files</h3>
 <ul>
-  <li><strong>prank.vbs</strong> — The prank script</li>
-  <li><strong>README.md</strong> — This file</li>
-  <li><strong>FakeHackedPopup-preview.png</strong> — Preview image</li>
+  <li><strong>FakeHackedPopup.vbs</strong> — The main prank script</li>
+  <li><strong>FakeHackedPopup.txt</strong> — Optional plain text version</li>
+  <li><strong>FakeHackedPopup-preview.png</strong> — Preview image used in this README</li>
+  <li><strong>README.md</strong> — This file (GitHub description)</li>
+  <li><strong>LICENSE</strong> — MIT open-source license</li>
 </ul>
 
 <h3>📜 License</h3>
-<p>This project is under the <strong>MIT License</strong>. Use responsibly and only for fun or learning.</p>
+<p>This project is licensed under the <strong>MIT License</strong>. You are free to use, modify, and share.</p>
 
 <hr>
 
-<h3 align="center">🧑‍💻 Made with fun by <a href="https://engrshuvodas.github.io/SHUVO-_portfolio/" target="_blank">Engr. Shuvo Das</a></h3>
+<h3 align="center">🧑‍💻 Made by <a href="https://engrshuvodas.github.io/SHUVO-_portfolio/" target="_blank">Engr. Shuvo Das</a></h3>
 <p align="center">
-  🌐 <a href="https://engrshuvodas.github.io/SHUVO-_portfolio/" target="_blank">Visit My Portfolio</a>
+  🌐 <a href="https://engrshuvodas.github.io/SHUVO-_portfolio/" target="_blank">Visit My Portfolio</a> <br>
+  🔗 <a href="https://github.com/engrshuvodas" target="_blank">GitHub Profile</a>
 </p>
