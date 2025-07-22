@@ -67,4 +67,8 @@ loop
 <p>This project is under the <strong>MIT License</strong>. Use responsibly and only for fun or learning.</p>
 
 <hr>
-<p align="center">🤖 Made with curiosity & fun by a passionate developer</p>
+
+<h3 align="center">🧑‍💻 Made with fun by <a href="https://engrshuvodas.github.io/SHUVO-_portfolio/" target="_blank">Engr. Shuvo Das</a></h3>
+<p align="center">
+  🌐 <a href="https://engrshuvodas.github.io/SHUVO-_portfolio/" target="_blank">Visit My Portfolio</a>
+</p>
